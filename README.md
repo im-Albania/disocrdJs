@@ -1,2 +1,1 @@
-# PrefixLoader
-* [Here](https://github.com/im-Albania/skybot)
+guide from docs
